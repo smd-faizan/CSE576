@@ -1,0 +1,11 @@
+Command to execute >clingo MOLS_5.pl data_5.pl -c k=5
+
+clingo version 5.1.0
+Reading from MOLS_5.pl ...
+Solving...
+UNSATISFIABLE
+
+Models       : 0
+Calls        : 1
+Time         : 1.745s (Solving: 1.68s 1st Model: 0.00s Unsat: 1.68s)
+CPU Time     : 1.719s
